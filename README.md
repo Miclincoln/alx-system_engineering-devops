@@ -1,1 +1,1 @@
-Shell scripting now
+Shell scripting
